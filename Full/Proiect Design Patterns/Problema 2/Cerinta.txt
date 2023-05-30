@@ -1,0 +1,4 @@
+Design pattern: Observer
+
+
+Sunteți responsabil de dezvoltarea unui sistem de gestionare a albumelor muzicale pentru o casă de discuri. Compania dorește să aibă posibilitatea de a adăuga, gestiona și distribui albume muzicale ale artiștilor săi. Implementați o funcționalitate care să permită gestionarea albumelor muzicale și a artiștilor asociati 

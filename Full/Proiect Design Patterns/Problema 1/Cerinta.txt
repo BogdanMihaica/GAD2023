@@ -1,0 +1,4 @@
+Design pattern: Composite
+
+
+Simuleaza dezvoltarea unui sisteam de planificare a evenimentelor pentru o companie de organizare de petreceri. compannia doreste sa ofere clientilor sai posibilitatea de a planifica si gestiona evenimente personalizate, cum ar ffi pentreceri de ziua de nastere, nunti sau evenimente coporative. Implementeaza o functionalitate care sa permita gestionarea invitatilor la petreceri.
